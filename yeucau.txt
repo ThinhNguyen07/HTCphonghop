@@ -1,0 +1,58 @@
+# HTCphonghop
+Quan ly phong hop
+
+Th?c hành môn CC & MT PT PM 
+Ngu?i so?n: nd.anh@hutech.edu.vn 
+2.2  Yêu c?u bài làm 
+-  Thi?t k? bi?u d? usecase mô t? toàn b? ?ng d?ng trên (s? d?ng draw.io) 
+-  Thi?t k? màn hình m?u (GUI Prototype) cho toàn b? ?ng d?ng trên (s? 
+d?ng Balsamiq) 
+-  B?n hãy d? xu?t architecture design phù h?p cho ?ng d?ng trên và trình 
+bày lý do vì sao b?n ch?n thi?t k? dó? 
+-  Thi?t k? các l?p và v? bi?u d? l?p (theo hu?ng d?i tu?ng, s? d?ng UML) 
+cho ?ng d?ng trên. (s? d?ng draw.io) 
+-  Thi?t k? bi?u d? tu?n t? cho m?t trong hai ch?c nang sau dây (s? d?ng 
+draw.io) 
+o  Ðang ký phòng phòng h?p 
+o  Xác nh?n (approve ho?c reject) c?a ngu?i qu?n lý 
+-  Chia Task c?a ?ng d?ng và tri?n khai d? án s? d?ng công c? qu?n lý 
+Redmine (s? d?ng hostedredmine.com) 
+o  T?o m?i d? án 
+o  Ch? d?nh Project Leader 
+o  Thêm các thành viên khác vào d? án 
+o  T?o m?i task, issue và ch? d?nh ngu?i th?c hi?n 
+o  Update tr?ng thái task và ghi th?i gian làm vi?c 
+o  Tìm hi?u vòng d?i c?a issue 
+o  Xem t?ng quan d? án (bi?u d? Gantt chart, Activity,…) 
+o  Nghiên c?u d? tích h?p công c? version control và ghi log trong 
+redmine 
+-  Tích h?p SVN vào Redmine d? s? d?ng 
+o  Xem commit SVN t? redmine 
+o  Xem issue Redmine t? công c? tortoiseSVN 
+ Th?c hành môn CC & MT PT PM 
+Ngu?i so?n: nd.anh@hutech.edu.vn 
+CÔNG C? PHÂN TÍCH, THI?T K? VÀ QU?N LÝ D? ÁN 
+1  Yêu c?u 
+-  Ðang ký tài kho?n t?i http://www.hostedredmine.com/ ho?c m?t host site 
+s? d?ng mi?n phí công c? Redmine 
+-  Cài d?t ph?n m?m balsamiq ho?c công c? b?t k? d? design mockup cho 
+?ng d?ng 
+-  S? d?ng công c? trên trên trang http://draw.io ho?c các công c? b?t k? d? 
+thi?t k? UML 
+2  Th?c hành 
+-  Luu ý: T?t c? các bài làm luu l?i trên file word d? dánh giá 
+2.1  Mô t? ?ng d?ng 
+Cho m?t ?ng d?ng qu?n lý phòng h?p, dáp ?ng các yêu c?u nhu sau:  
+-  Có ch?c nang qu?n lý ngu?i dùng, qu?n lý phòng h?p, dang ký phòng h?p 
+-  M?i ngu?i dùng du?c phép dang ký m?t lúc nhi?u phòng h?p, ngu?i dang 
+ký không nh?t thi?t ph?i là ngu?i s? d?ng phòng. 
+-  M?i phòng h?p có m?t ngu?i qu?n lý d? xác nh?n (approve ho?c reject) 
+khi có yêu c?u s? d?ng phòng h?p t? ngu?i dùng. Tru?ng h?p ngu?i qu?n 
+lý phòng h?p th?c hi?n dang ký s? d?ng phòng thì cung tuân th? theo 
+dúng quy trình dang ký nhu m?t ngu?i dùng bình thu?ng. 
+-  Có c?nh báo cho ngu?i dùng khi dang ký phòng h?p mà dã có ngu?i khác 
+dang ký (chua du?c approve) phòng h?p dó mà khung th?i gian có ch?ng 
+l?n v?i yêu c?u dang dang ký. 
+-  Có báo l?i cho ngu?i dùng khi dang ký phòng h?p mà dã có ngu?i khác 
+dang ký (dã du?c approve) phòng h?p dó mà khung th?i gian có ch?ng 
+l?n v?i yêu c?u dang dang ký. 
